@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "90db9d0f8c4f2b56",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bce0cedbbd3016c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f4175902af9523b",
+    "type": "split",
+    "children": [
+      {
+        "id": "63e86d542e5e34a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76dc3ab68cd60820",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "23ea60c4f2929cbe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb9fc6412b650fe3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dec48f71a81c599",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e08951c78ce6c9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "8bce0cedbbd3016c",
+  "lastOpenFiles": [
+    "test_002.md",
+    "test_001.md",
+    "無題のファイル.md"
+  ]
+}
