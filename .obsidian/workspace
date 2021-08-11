@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TEST_001.md",
+            "file": "TEST_002.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TEST_001.md",
+                "file": "TEST_002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,10 +87,10 @@
   },
   "active": "8bce0cedbbd3016c",
   "lastOpenFiles": [
+    "無題のファイル.md",
     "TEST_001.md",
     "README.md",
     "test_002.md",
-    "test_001.md",
-    "無題のファイル.md"
+    "test_001.md"
   ]
 }
