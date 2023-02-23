@@ -28,9 +28,19 @@
                 "currentVersion": "1.0.2"
               }
             }
+          },
+          {
+            "id": "192d33054b031663",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +125,7 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "f4ae8fa9989f7781",
+  "active": "192d33054b031663",
   "lastOpenFiles": [
     "TEST_001.md",
     "TEST_002.md",
