@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "60a1ac925740ab92",
+            "id": "81639d6d1d9d2ee7",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.1.16"
+                "currentVersion": "1.2.0"
               }
             }
           }
@@ -66,6 +66,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "716fc9e7a60016e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -115,7 +123,7 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "60a1ac925740ab92",
+  "active": "81639d6d1d9d2ee7",
   "lastOpenFiles": [
     "TEST_001.md",
     "TEST_002.md",
